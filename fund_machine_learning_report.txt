@@ -1,0 +1,9 @@
+1.) Introduction
+2.) Problem & Application
+3.) Machine Learning Model
+4.) Learning Model
+5.) Implementation
+6.) Results & Discussions
+7.) Conclusion
+8.) Referances
+9.) Appendix for codes
