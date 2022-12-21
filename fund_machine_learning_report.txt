@@ -5,5 +5,10 @@
 5.) Implementation
 6.) Results & Discussions
 7.) Conclusion
-8.) Referances
+8.) References
 9.) Appendix for codes
+
+
+# ref: 
+https://towardsdatascience.com/generating-modern-arts-using-generative-adversarial-network-gan-on-spell-39f67f83c7b4
+https://www.tensorflow.org/tutorials/generative/dcgan
