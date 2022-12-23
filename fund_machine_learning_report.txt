@@ -14,3 +14,4 @@ https://towardsdatascience.com/generating-modern-arts-using-generative-adversari
 https://www.tensorflow.org/tutorials/generative/dcgan
 https://github.com/jeffheaton/present/blob/master/youtube/gan/gans_scratch.ipynb
 https://www.galerisoyut.com.tr/ibrahim-balaban-2020/
+https://neptune.ai/blog/gan-loss-functions
