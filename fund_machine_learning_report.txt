@@ -13,6 +13,7 @@
 
 art source
 https://www.galerisoyut.com.tr/ibrahim-balaban-2020/
+https://www.kaggle.com/datasets/reevald/geometric-shapes-mathematics
 
 GAN Model
 https://towardsdatascience.com/generating-modern-arts-using-generative-adversarial-network-gan-on-spell-39f67f83c7b4
