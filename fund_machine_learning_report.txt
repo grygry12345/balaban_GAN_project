@@ -1,27 +1,28 @@
 1.) Introduction
 2.) Problem & Application
 3.) Machine Learning Model
-4.) Learning Model
-5.) Implementation
-6.) Results & Discussions
-7.) Conclusion
-8.) References
-9.) Appendix for codes
+4.) Implementation
+5.) Results & Discussions
+6.) Conclusion
+7.) References
+8.) Appendix for codes
 
 
 # referances:
 
-art source
+Art source
 https://www.galerisoyut.com.tr/ibrahim-balaban-2020/
 https://www.kaggle.com/datasets/reevald/geometric-shapes-mathematics
 
-GAN Model
+GAN model source codes
 https://towardsdatascience.com/generating-modern-arts-using-generative-adversarial-network-gan-on-spell-39f67f83c7b4
 https://www.tensorflow.org/tutorials/generative/dcgan
 https://github.com/jeffheaton/present/blob/master/youtube/gan/gans_scratch.ipynb
 
 
-Other GAN Types
+Other type of GAN collections
+https://github.com/hwalsuklee/tensorflow-generative-model-collections
+
+Undestarnding GAN vanishing gradient problem
 https://neptune.ai/blog/gan-loss-functions
 https://neptune.ai/blog/gan-failure-modes
-https://github.com/hwalsuklee/tensorflow-generative-model-collections
