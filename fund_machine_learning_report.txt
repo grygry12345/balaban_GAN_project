@@ -20,7 +20,7 @@ https://www.tensorflow.org/tutorials/generative/dcgan
 https://github.com/jeffheaton/present/blob/master/youtube/gan/gans_scratch.ipynb
 
 
-Other type of GAN collections
+Other types of GAN collections
 https://github.com/hwalsuklee/tensorflow-generative-model-collections
 
 Undestarnding GAN vanishing gradient problem
